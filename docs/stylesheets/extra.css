@@ -1,0 +1,10 @@
+/* Força que tots els nivells de títol (h1-h6) es mostrin en negreta.
+   Per defecte, el tema Material els renderitza amb un pes de lletra prim. */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4,
+.md-typeset h5,
+.md-typeset h6 {
+  font-weight: 700;
+}

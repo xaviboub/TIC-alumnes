@@ -1,0 +1,51 @@
+site_name: Portal TIC - Alumnat
+site_description: Portal de referència amb la informació TIC de l'Institut Nicolau Copèrnic
+site_author: Institut Nicolau Copèrnic
+
+theme:
+  name: material
+  language: ca
+  logo: assets/img/Logotip.jpg
+  favicon: assets/img/Logotip.jpg
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.expand
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+extra:
+  generator: false
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - toc:
+      permalink: true
+  - tables
+  - attr_list
+  - md_in_html
+
+plugins:
+  - search:
+      lang: ca
+
+nav:
+  - Inici: index.md
+  - Logins i passwords:
+      - accessos/index.md
+  - Accés a Internet:
+      - wifi/index.md
+  - Programari:
+      - programari/index.md
+  - Webs d'ús habitual:
+      - webs/index.md

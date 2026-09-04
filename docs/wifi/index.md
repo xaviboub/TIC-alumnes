@@ -4,18 +4,11 @@ title: Accés a Internet
 
 # Accés a Internet
 
-Al centre pots connectar-te a Internet de dues maneres: **per cable**, connectant-te a una roseta de l'aula, o **per WiFi**, fent servir un dels dos SSIDs disponibles per a l'alumnat.
+Al centre pots connectar-te a Internet de dues maneres: **per cable** (per als cicles de Grau Mig) i  **per WiFi** (per als cicles de Grau Bàsic i Superior). A continuació s'explica com establir cadascuna d'aquestes connexions.
 
-## Connexió per cable
+## Connexió per WiFi (Cicles de Grau Bàsic i Superior)
 
-A cada aula hi ha rosetes de xarxa a les quals et pots connectar directament amb un cable de xarxa (Ethernet).
-
-- En connectar-t'hi, se't redirigirà a un **portal captiu**.
-- Hi has d'introduir l'**usuari i la contrasenya de centre** (`nom_alumne@alumnat.copernic.cat`).
-
-## Connexió per WiFi
-
-Com a alumne, tens disponibles **dos SSIDs** (xarxes WiFi) diferents, cadascun amb el seu propi sistema d'accés.
+Com a alumne, tens disponibles **dues SSIDs** (xarxes WiFi) diferents, cadascun amb el seu propi sistema d'accés.
 
 ### SSID de l'Institut: `CCFF2NN`
 
@@ -34,3 +27,11 @@ Com a alumne, tens disponibles **dos SSIDs** (xarxes WiFi) diferents, cadascun a
 
 !!! warning "Portal captiu"
     Si no veus la pantalla de login (portal captiu) després de connectar-te per cable o per WiFi, obre el navegador i intenta accedir a qualsevol pàgina web: normalment el portal apareix automàticament en aquest moment.
+
+
+## Connexió per cable (Cicles de Grau Mig)
+
+Als cicles de grau mig, es disposa d'ordinadors a les aules i estan connectats via cable a Internet. 
+
+> - En connectar-t'hi, se't redirigirà a un **portal captiu** (https://opnsense.copernic.cat:8000/)
+> - Hi has d'introduir l'**usuari i la contrasenya de centre** (sense el @copernic.cat o @alumnat.copernic.cat)

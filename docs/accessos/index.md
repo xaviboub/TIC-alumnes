@@ -11,7 +11,9 @@ En aquesta pàgina trobaràs informació sobre els diferents usuaris i contrasen
 
 ## Accessos que rebràs a l'inici de curs
 
-A l'inici del curs, el tutor o tutora et facilitarà **dos usuaris i contrasenyes diferents**, cadascun amb un propòsit concret.
+A l'inici del curs, si ets alumne nou a l'Institut, el tutor o tutora et facilitarà **dos usuaris i contrasenyes diferents**, cadascun amb un propòsit concret.  
+
+Si estàs cursant un segon curs, pots fer servir les credencials del primer curs.
 
 ### 1. Usuari i contrasenya de centre
 

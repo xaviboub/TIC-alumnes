@@ -45,7 +45,9 @@ nav:
       - accessos/index.md
   - Accés a Internet:
       - wifi/index.md
-  - Programari:
-      - programari/index.md
   - Webs d'ús habitual:
       - webs/index.md
+  - Isard:
+      - isard/index.md
+  - Programari:
+      - programari/index.md

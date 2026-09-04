@@ -46,19 +46,7 @@ Portal des d'on pots consultar l'estat de la matrícula, els mòduls en què est
 
 ### 1. Isard
 
-**[elmeuescriptori.gestioeducativa.gencat.cat](https://elmeuescriptori.gestioeducativa.gencat.cat/login)**
-
-Portal al núvol on trobaràs les màquines virtuals que pots necessitar en exercicis pràctics o exàmens.
-
-- **Login**: usuari i contrasenya **d'Educació**.
-
-!!! danger "No entris mai amb el compte de Google"
-    A la pantalla de login, no facis servir mai l'opció d'entrar amb un compte de Google. Selecciona sempre l'opció d'entrar amb el **login i contrasenya d'Educació**, i tria l'**Institut Nicolau Copèrnic** com a centre.
-
-<figure markdown="span">
-  ![Accés a Isard](../assets/img/Acces_isard.png){ width="80%" }
-  <figcaption>Accés a Isard.</figcaption>
-</figure>
+L'accés i el funcionament d'Isard es descriuen a la seva pròpia secció: [Isard](../isard/index.md).
 
 ### 2. qBittorrent
 

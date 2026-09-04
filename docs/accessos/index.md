@@ -15,8 +15,10 @@ A l'inici del curs, el tutor o tutora et facilitarà **dos usuaris i contrasenye
 
 ### 1. Usuari i contrasenya de centre
 
-- **Format del login**: `nom_alumne@alumnat.copernic.cat`
-- **Contrasenya**: ----
+!!! note "Usuari del Copèrnic"
+
+    - **Format del login**: `nom_alumne@alumnat.copernic.cat`
+    - **Contrasenya**: ----
 
 Aquest usuari et permet accedir a:
 
@@ -26,11 +28,15 @@ Aquest usuari et permet accedir a:
 
 ### 2. Usuari i contrasenya dels serveis d'Educació
 
-- **Format del login**: `identificador@edu.gencat.cat`
-- **Contrasenya**: ----  El sistema et demanarà que la canviïs la primera vegada que hi accedeixis.
+!!! note "Usuari d'Educació"
 
-!!! note "Dos accessos, dos propòsits"
-    No confonguis els dos usuaris: el de centre (`@alumnat.copernic.cat`) és per a les aplicacions internes de l'institut i l'accés a Internet; el d'Educació (`@edu.gencat.cat`) és per als serveis del Departament d'Educació.
+    - **Format del login**: `identificador@edu.gencat.cat`
+    - **Contrasenya**: ----  El sistema et demanarà que la canviïs la primera vegada que hi accedeixis.
+
+Aquest usuari et permet accedir a:
+
+- La plataforma Isard.
+- L'accés a Internet del departament d'Educació `gencat_ENS_EDU_PORTAL`
 
 ## Què fer si perds una contrasenya
 

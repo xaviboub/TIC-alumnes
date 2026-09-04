@@ -19,14 +19,15 @@ Com a alumne, tens disponibles **dos SSIDs** (xarxes WiFi) diferents, cadascun a
 
 ### SSID de l'Institut: `CCFF2NN`
 
-- El nom de la xarxa segueix el format `CCFF2NN`, on **NN** és el número de l'aula en què et trobes.
-- En connectar-t'hi, se't redirigirà a un **portal captiu**.
-- Hi has d'introduir l'**usuari i la contrasenya de centre** (`nom_alumne@alumnat.copernic.cat`).
+> - El nom de la xarxa segueix el format `CCFF2NN`, on **NN** és el número de l'aula en què et trobes.
+> - Has de fer servir la password **copernic**
+> - En connectar-t'hi, se't redirigirà a un **portal captiu** (https://opnsense.copernic.cat:8000/)
+> - Hi has d'introduir l'**usuari i la contrasenya de centre** (sense el @copernic.cat o @alumnat.copernic.cat)
 
 ### SSID del Departament d'Educació: `gencat_ENS_EDU_PORTAL`
 
-- En connectar-t'hi, se't redirigirà a un portal propi del Departament.
-- Hi has d'introduir el **login i contrasenya dels serveis d'Educació** (`identificador@edu.gencat.cat`).
+> - En connectar-t'hi, se't redirigirà a un portal propi del Departament.
+> - Hi has d'introduir el **login i contrasenya dels serveis d'Educació** (`identificador@edu.gencat.cat`).
 
 !!! tip "No saps quin usuari fer servir?"
     Consulta la pàgina [Logins i passwords](../accessos/index.md) per repassar quin usuari correspon a cada servei.
